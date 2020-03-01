@@ -2,12 +2,8 @@ import React, { Component } from 'react';
 
 
 //TODO:
-//3. CSS
-	//3.1 Fix display of buttons and number input width to look less stupid
-	//3.2 Add Vanta.js waves background in red to App.js
-	//3.3 Fix Play/Pause button
-	//3.4 Remove semantic ui from index.html
-//4. OPTIONAL: Add a counter so that every 4 work sessions provides a 30 minute break session
+//1. Add a counter so that every 4 work sessions provides a 30 minute break session
+//2. Extract particleOptions from App.js and minify
 
 
 
